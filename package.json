@@ -1,0 +1,21 @@
+{
+  "name": "@isayme/prettier-config",
+  "version": "0.1.0",
+  "description": "my share prettier configuration",
+  "main": "prettier.config.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isayme/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "iSayme <isaymeorg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isayme/prettier-config/issues"
+  },
+  "homepage": "https://github.com/isayme/prettier-config#readme"
+}
