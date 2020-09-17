@@ -4,6 +4,8 @@
 使用方只需要升级版本即可更新至最新的配置模式, 避免配置变更时, 使用方需要复制新的配置项.
 
 ## 如何使用
+安装此包: `npm install --save-dev @isayme/prettier-config`
+
 ### 方法一
 `package.json` 文件中增加属性: `"prettier": "@isayme/prettier-config"`
 
