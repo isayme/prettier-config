@@ -1,10 +1,9 @@
 {
   "name": "@isayme/prettier-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "my share prettier configuration",
   "main": "prettier.config.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/isayme/prettier-config.git"
